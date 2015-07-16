@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
 	int number , offset, cale;
 	char operator;
 	
-	printf("수식 입력하셈");
+
 	scanf("%d %c %d", &a, &operator, &b);
 	
 	switch (operator)
