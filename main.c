@@ -10,7 +10,11 @@ int main(int argc, char* argv[])
 	int number , offset, cale;
 	char operator;
 	
+
 	printf("nice shot");
+
+	printf("Please enter a expression (ex> 1+2) :");
+
 	scanf("%d %c %d", &a, &operator, &b);
 	
 	switch (operator)
