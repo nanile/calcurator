@@ -1,3 +1,7 @@
+/*
+* Ver 1.0
+* Author : Á¶½ÂÇö,¹é½ÂÇÏ
+*/
 #include <stdio.h>
  
 int add(int, int);
